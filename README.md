@@ -49,6 +49,7 @@ I've led teams of 4+ engineers, contributed to open-source SDKs increasing downl
 ![MCP](https://img.shields.io/badge/MCP_Agents-8B5CF6?style=flat-square)
 ![LoRA](https://img.shields.io/badge/LoRA%2FPEFT-E11D48?style=flat-square)
 ![TensorRT-LLM](https://img.shields.io/badge/TensorRT--LLM-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
 
 ### Models I've Worked With
 ![GPT](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
@@ -81,7 +82,7 @@ I've led teams of 4+ engineers, contributed to open-source SDKs increasing downl
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
+
 
 ---
 
