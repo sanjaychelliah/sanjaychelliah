@@ -152,7 +152,7 @@ Built the [Kandula.ai](https://kandula.ai) cognitive computer vision SaaS platfo
 
 | Project | Description | Stack |
 |---|---|---|
-| [Stock Price Prediction LSTM](https://github.com/sanjaychelliah/Stock-price-prediction-LSTM) | RNN/LSTM-based time series forecasting for stock markets | Python, PyTorch |
+| [Docwhisper](https://github.com/sanjaychelliah/docwhisper) | Doc Question answering using RAG  | Python, FastAPI, Ollama |
 | [PyTorch Object Detect & Track](https://github.com/sanjaychelliah/pytorch_objectdetecttrack) | Real-time multi-object detection and tracking in video | Python, PyTorch, YOLO |
 
 > 🔒 *Most production work lives in private/org repos at Clarifai — benchmarks and results linked in experience above.*
