@@ -140,9 +140,9 @@ Built the [Kandula.ai](https://kandula.ai) cognitive computer vision SaaS platfo
 
 <div align="center">
 
-![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjaychelliah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sanjaychelliah&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaychelliah&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaychelliah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
