@@ -140,7 +140,7 @@ Built the [Kandula.ai](https://kandula.ai) cognitive computer vision SaaS platfo
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanjaychelliah&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjaychelliah&theme=tokyonight)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjaychelliah&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
