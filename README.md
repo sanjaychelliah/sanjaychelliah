@@ -93,13 +93,14 @@ I've taken systems from prototype to production across LLM infra and computer vi
 
 > Ask questions directly against your documents — powered by local LLMs, no cloud required.
 
-A document Q&A system built on a full RAG pipeline: ingest PDFs, chunk and embed them into a vector store, then retrieve and answer with a locally-running LLM via Ollama. Fast, private, and runs entirely on your machine.
+A document Q&A system built on a full RAG pipeline: ingest PDFs, chunk and embed them into a vector store, then retrieve and answer with a locally-running LLM via Ollama. Fast, private, and runs entirely on your machine. Includes MLflow-based observability — query traces, retrieval quality metrics, and latency are tracked per run for easy debugging and iteration.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-DC244C?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 ---
 
