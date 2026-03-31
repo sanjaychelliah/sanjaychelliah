@@ -41,6 +41,55 @@ I've taken systems from prototype to production across LLM infra and computer vi
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗂️ [Docwhisper](https://github.com/sanjaychelliah/docwhisper)
+
+> Ask questions directly against your documents — powered by local LLMs, no cloud required.
+
+A document Q&A system built on a full RAG pipeline: ingest PDFs, chunk and embed them into a vector store, then retrieve and answer with a locally-running LLM via Ollama. Fast, private, and runs entirely on your machine. Includes MLflow-based observability — query traces, retrieval quality metrics, and latency are tracked per run for easy debugging and iteration.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector_Search-DC244C?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 [Clarifai Python SDK](https://github.com/Clarifai/clarifai-python) *(Contributor)*
+
+> The official Python client for the Clarifai AI platform — models, workflows, datasets, and deployments via a clean API.
+
+Drove significant growth through CLI improvements, new API surface coverage, and DX enhancements — contributing to a **10x increase in monthly downloads**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-2C2C2C?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>Other Projects</summary>
+<br>
+
+| Project | Description | Stack |
+|---|---|---|
+| [PyTorch Object Detect & Track](https://github.com/sanjaychelliah/pytorch_objectdetecttrack) | Real-time multi-object detection and tracking in video | Python, PyTorch, YOLO |
+
+</details>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### LLM & GenAI
@@ -84,44 +133,6 @@ I've taken systems from prototype to production across LLM infra and computer vi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### [Docwhisper](https://github.com/sanjaychelliah/docwhisper)
-
-> Ask questions directly against your documents — powered by local LLMs, no cloud required.
-
-A document Q&A system built on a full RAG pipeline: ingest PDFs, chunk and embed them into a vector store, then retrieve and answer with a locally-running LLM via Ollama. Fast, private, and runs entirely on your machine. Includes MLflow-based observability — query traces, retrieval quality metrics, and latency are tracked per run for easy debugging and iteration.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
-![Vector Search](https://img.shields.io/badge/Vector_Search-DC244C?style=flat-square)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
----
-
-### [Clarifai Python SDK](https://github.com/Clarifai/clarifai-python) *(Contributor)*
-
-> The official Python client for the Clarifai AI platform — models, workflows, datasets, and deployments via a clean API.
-
-Drove significant growth through CLI improvements, new API surface coverage, and DX enhancements — contributing to a **10x increase in monthly downloads**.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-2C2C2C?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-### Other Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [PyTorch Object Detect & Track](https://github.com/sanjaychelliah/pytorch_objectdetecttrack) | Real-time multi-object detection and tracking in video | Python, PyTorch, YOLO |
 
 ---
 
