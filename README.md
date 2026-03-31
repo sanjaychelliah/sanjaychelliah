@@ -24,18 +24,20 @@ I'm a **Senior MLOps / AI Platform Engineer** with **5+ years** shipping product
 
 I've led teams of 4+ engineers, contributed to open-source SDKs increasing downloads by 10x, and pushed models to top throughput performance.
 
+🔭 **Currently:** MCP-based agent orchestration and pushing LLM inference latency boundaries with vLLM + SGLang.
+
 ---
 
-## ⚡ Career Highlights
+## ⚡ What I've Shipped
 
-| Achievement | Detail |
-|---|---|
-| 🏆 **LLM Inference Optimization** | Low Latency, High Throughput Models |
-| 📦 **10x SDK Growth** | Contributed to Clarifai Python SDK driving 10x download increase |
-| 🎯 **0.97 mAP** | Car Dent Detection & Segmentation for insurance client |
-| 🧠 **3x Latency Reduction** | Multi-modal RAG platform over 1M+ document knowledge base |
-| 🏅 **NVIDIA Hackathon** | Smart City Hackathon (Asia-Pacific) — Pothole Detection with RT-DETR |
-| ⚙️ **80% GPU Memory Savings** | LoRA/PEFT adapters enabling cost-efficient production fine-tuning |
+I've taken systems from prototype to production across LLM infra and computer vision — a few highlights:
+
+- **3x latency reduction** on a multi-modal RAG platform over a 1M+ document knowledge base
+- **80% GPU memory savings** with LoRA/PEFT adapters for cost-efficient production fine-tuning
+- **0.97 mAP** on car dent detection & segmentation for an insurance client
+- **90% MOTA** on sports analytics pipelines processing millions of frames/week
+- **10x SDK download growth** via Clarifai Python SDK & CLI contributions
+- NVIDIA Smart City Hackathon finalist (Asia-Pacific) — pothole detection with RT-DETR
 
 ---
 
@@ -83,56 +85,42 @@ I've led teams of 4+ engineers, contributed to open-source SDKs increasing downl
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+---
+
+## 🚀 Featured Projects
+
+### [Docwhisper](https://github.com/sanjaychelliah/docwhisper)
+
+> Ask questions directly against your documents — powered by local LLMs, no cloud required.
+
+A document Q&A system built on a full RAG pipeline: ingest PDFs, chunk and embed them into a vector store, then retrieve and answer with a locally-running LLM via Ollama. Fast, private, and runs entirely on your machine.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector_Search-DC244C?style=flat-square)
 
 ---
 
-## 💼 Experience
+### [Clarifai Python SDK](https://github.com/Clarifai/clarifai-python) *(Contributor)*
 
-### 🔷 Senior MLOps Engineer — [Clarifai](https://www.clarifai.com/) *(Mar 2024 – Present)*
+> The official Python client for the Clarifai AI platform — models, workflows, datasets, and deployments via a clean API.
 
-Built and optimized Clarifai's LLM inference engine to world-class benchmark performance.
+Drove significant growth through CLI improvements, new API surface coverage, and DX enhancements — contributing to a **10x increase in monthly downloads**.
 
-- Experience in **vLLM, SGLang, MCP-based agents, RAG architectures**
-- Architected **MCP-based agent serving** with LLM-as-a-judge evaluation and HITL feedback loops
-- Built **sports analytics pipelines** (Object Detection, MOT) achieving **90% MOTA** at millions of frames/week
-- Implemented **LoRA/PEFT** reducing GPU memory by up to **80%** vs full-parameter fine-tuning
-- Drove **10x SDK download growth** via Clarifai Python SDK & CLI improvements
-
-### 🔷 MLOps Engineer — [Clarifai](https://www.clarifai.com/) *(Apr 2023 – Feb 2024)*
-
-- Designed end-to-end **multi-modal RAG platform** (LLMs + VLMs) for document Q&A — **3x latency reduction** over 1M+ document KB
-- Built scalable **vector search pipelines** with Qdrant for semantic retrieval at production scale
-
-### 🔷 AI Engineer — Pavo & Tusker Innovations *(Jun 2021 – Mar 2023)*
-
-Built the [Kandula.ai](https://kandula.ai) cognitive computer vision SaaS platform from the ground up.
-
-| Project | Result |
-|---|---|
-| 🚗 Car Dent Detection & Segmentation | **0.97 mAP** using YOLO-based models for insurance client |
-| 🔥 Fire Detection Droid | Real-time YOLO_v3 deployment |
-| 🕳️ Pothole Detection | **95% accuracy** on 100k-image dataset with RT-DETR; NVIDIA Hackathon finalist |
-| 👁️ Gaze Tracking | R&D of SOTA algorithms, heatmap data products for retail analytics |
-| 🏥 Crowd Detection | Hospital infection rate reduction — threshold alerting system |
-| ⚙️ Model Deployment | Exported **50+ models** in ONNX/TensorRT with INT8/FP16 quantization |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-2C2C2C?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 🎓 Education
+### Other Projects
 
-| Degree | Institution | Year | Grade |
-|---|---|---|---|
-| M.Sc. Data Science | Loyola College, Chennai | 2019–2021 | 8.3 CGPA — First Class with Distinction |
-| B.Sc. Mathematics | Vivekananda College, Chennai | 2016–2019 | 6.1 CGPA |
-
----
-
-## 📜 Certifications
-
-- 🎓 Machine Learning — *Coursera*
-- 🐍 Python Data Structures — *Coursera*
-- 🎥 Building Real-Time Video AI Applications — *NVIDIA*
-- 🤖 Mastering LLMs — *Analytics Vidhya*
+| Project | Description | Stack |
+|---|---|---|
+| [PyTorch Object Detect & Track](https://github.com/sanjaychelliah/pytorch_objectdetecttrack) | Real-time multi-object detection and tracking in video | Python, PyTorch, YOLO |
 
 ---
 
@@ -145,17 +133,6 @@ Built the [Kandula.ai](https://kandula.ai) cognitive computer vision SaaS platfo
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjaychelliah&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Docwhisper](https://github.com/sanjaychelliah/docwhisper) | Doc Question answering using RAG  | Python, FastAPI, Ollama |
-| [PyTorch Object Detect & Track](https://github.com/sanjaychelliah/pytorch_objectdetecttrack) | Real-time multi-object detection and tracking in video | Python, PyTorch, YOLO |
-
-> 🔒 *Most production work lives in private/org repos at Clarifai — benchmarks and results linked in experience above.*
 
 ---
 
