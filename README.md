@@ -63,6 +63,23 @@ A document Q&A system built on a full RAG pipeline: ingest PDFs, chunk and embed
 </td>
 <td width="50%" valign="top">
 
+### 📊 [local-slm-bench](https://github.com/sanjaychelliah/local-slm-bench)
+
+> Benchmark and compare small language models side-by-side — entirely offline, zero cloud.
+
+Run up to 3 models simultaneously with real-time token streaming and per-model metrics. A built-in benchmark suite covers 18 prompts across 10 categories (reasoning, code, math, safety). Interactive Plotly charts visualize throughput, TTFT, RAM usage, and quality-vs-speed trade-offs — all on local hardware.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🤝 [Clarifai Python SDK](https://github.com/Clarifai/clarifai-python) *(Contributor)*
 
 > The official Python client for the Clarifai AI platform — models, workflows, datasets, and deployments via a clean API.
@@ -75,6 +92,7 @@ Drove significant growth through CLI improvements, new API surface coverage, and
 ![Open Source](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
