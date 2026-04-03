@@ -92,7 +92,21 @@ Drove significant growth through CLI improvements, new API surface coverage, and
 ![Open Source](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+### 🤖 [multi-agent-research](https://github.com/sanjaychelliah/multi-agent-research)
+
+> Decompose complex queries into subtasks and coordinate specialized agents to research topics end-to-end.
+
+Production-grade multi-agent pipeline: Orchestrator → Search Agent → Summarizer → Critic, connected via A2A typed messaging and MCP servers for tools, memory, and web search. Tracks token usage, latency, cost, and confidence scores per agent. Streamlit dashboard with Plotly charts for visual analytics.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-8B5CF6?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+</td>
 </tr>
 </table>
 
